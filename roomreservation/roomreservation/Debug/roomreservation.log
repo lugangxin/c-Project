@@ -1,0 +1,4 @@
+﻿  teacher.cpp
+D:\Visual Studio\code\roomreservation\roomreservation\teacher.cpp(90,24): warning C4018: “<=”: 有符号/无符号不匹配
+  LINK : 没有找到 D:\Visual Studio\code\roomreservation\Debug\roomreservation.exe 或上一个增量链接没有生成它；正在执行完全链接
+  roomreservation.vcxproj -> D:\Visual Studio\code\roomreservation\Debug\roomreservation.exe
